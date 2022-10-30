@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wedding-rides-73757-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">744785262779</string>
+    <string name="google_api_key" translatable="false">AIzaSyBUbYgDQ06Nd0bFK7qxnFr9Xulqj0xW4GA</string>
+    <string name="google_app_id" translatable="false">1:744785262779:android:4dfad38a1e9303b932519e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUbYgDQ06Nd0bFK7qxnFr9Xulqj0xW4GA</string>
+    <string name="google_storage_bucket" translatable="false">wedding-rides-73757.appspot.com</string>
+    <string name="project_id" translatable="false">wedding-rides-73757</string>
+</resources>
