@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MAD APP</string>
+    <string name="cardnum">Card Number</string>
+    <string name="cardname">Cardholder Name</string>
+    <string name="cardexp1">Expiry Date</string>
+    <string name="cardcvc">CVC</string>
+    <string name="add_a_new_card">Add a new Card</string>
+    <string name="card_number">Card Number</string>
+    <string name="cardholder_name">Cardholder Name</string>
+    <string name="cvc">CVC</string>
+    <string name="expiry_month_year">Expiry date</string>
+    <string name="add_cardbtn">cardbtn</string>
+    <string name="you_have_X_cards">you have X cards</string>
+    <string name="add_card">Add card</string>
+    <string name="edit_card_details">Edit Card Details</string>
+    <string name="save_details">Save Details</string>
+    <string name="add_card1">Add Card</string>
+    <string name="card_name">Card Name</string>
+    <string name="cardholder_name1">Cardholder Name</string>
+    <string name="cardholder_name12">Cardholder Name :</string>
+    <string name="cvc1">CVC</string>
+    <string name="expiry_month_year1">Expiry month/year</string>
+    <string name="cvc12">CVC :</string>
+    <string name="expm">Expiry Month/Year :</string>
+    <string name="expiry_month_yearfffff">Expiry Month/year</string>
+    <string name="help_center">Help Center</string>
+    <string name="hi_how_can_i_help_you">Hi, How can i help you</string>
+    <string name="enter_your_message">Enter Your message</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="manage_feedback">Manage Feedback</string>
+</resources>
