@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "744785262779",
+    "firebase_url": "https://wedding-rides-73757-default-rtdb.firebaseio.com",
+    "project_id": "wedding-rides-73757",
+    "storage_bucket": "wedding-rides-73757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744785262779:android:e08154438b0ffda632519e",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbYgDQ06Nd0bFK7qxnFr9Xulqj0xW4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744785262779:android:4dfad38a1e9303b932519e",
+        "android_client_info": {
+          "package_name": "com.example.simplemeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbYgDQ06Nd0bFK7qxnFr9Xulqj0xW4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744785262779:android:efe2f73b8017e08b32519e",
+        "android_client_info": {
+          "package_name": "com.example.weddingrides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbYgDQ06Nd0bFK7qxnFr9Xulqj0xW4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744785262779-ut5jdestc1dduiak91baofui8s8un5qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
