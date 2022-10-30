@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bac111"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/viewfeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback"
+        android:textColor="#F4F6F8"
+        android:textColorHighlight="#FFFFFF"
+        android:textSize="44sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/imageView9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <Button
+        android:id="@+id/btnrev"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="45dp"
+        android:backgroundTint="#F44336"
+        android:text="ADD REVIEW"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/btncom"
+        app:layout_constraintEnd_toEndOf="@+id/btncon"
+        app:layout_constraintStart_toStartOf="@+id/btnfeed"
+        app:layout_constraintTop_toBottomOf="@+id/btnfeed" />
+
+    <Button
+        android:id="@+id/btncom"
+        android:layout_width="214dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="42dp"
+        android:backgroundTint="#F44336"
+        android:text="ADD COMPLAINT"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/btncon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnrev" />
+
+    <Button
+        android:id="@+id/btncon"
+        android:layout_width="217dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="57dp"
+        android:backgroundTint="#F44336"
+        android:text="CONTACT US"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btncom" />
+
+    <Button
+        android:id="@+id/btnfeed"
+        android:layout_width="224dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="49dp"
+        android:backgroundTint="#F44336"
+        android:text="MY FEEDBACK"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/btnrev"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView9" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="131dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="11dp"
+        app:layout_constraintBottom_toTopOf="@+id/viewfeed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/wed01" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="152dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="23dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnfeed"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/viewfeed"
+        app:srcCompat="@drawable/img011" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
